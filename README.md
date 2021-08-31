@@ -14,7 +14,7 @@ Now I am a private lessons teacher.
 
 |class|	The Content|
 |-----|------------|
-|1.   |[Home](https://samalhaj1.github.io/-Code-301-Reading-Notes/README)|
+|1.   |[Home](https://samalhaj1.github.io/-Code-301-Reading-Notes/)|
 |2.  |[Handling Events](https://samalhaj1.github.io/-Code-301-Reading-Notes/react-class-02 )|
 |3.   |[Lists and Keys](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-03)|
 |4.   |[React Forms](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-04)|
