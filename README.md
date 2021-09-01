@@ -18,6 +18,7 @@ Now I am a private lessons teacher.
 |2.  |[Handling Events](https://samalhaj1.github.io/-Code-301-Reading-Notes/react-class-02 )|
 |3.   |[Lists and Keys](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-03)|
 |4.   |[React Forms](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-04)|
+|5.   |[Thinking in react](https://github.com/samalhaj1/-Code-301-Reading-Notes.git/read-05)|
 
 
 
