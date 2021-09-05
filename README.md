@@ -19,7 +19,8 @@ Now I am a private lessons teacher.
 |3.   |[Lists and Keys](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-03)|
 |4.   |[React Forms](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-04)|
 |5.   |[Thinking in react](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-05)|
-|6.   |[What is REST](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-07 )|
+|6.   |[ Node.js](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-06 )|
+|7.   |[What is REST](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-07 )|
 
 
 
