@@ -21,6 +21,7 @@ Now I am a private lessons teacher.
 |5.   |[Thinking in react](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-05)|
 |6.   |[ Node.js](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-06 )|
 |7.   |[What is REST](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-07 )|
+|8.   |[HTTPS STATUS ](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-08 )|
 
 
 
