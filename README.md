@@ -23,6 +23,7 @@ Now I am a private lessons teacher.
 |7.   |[What is REST](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-07 )|
 |8.   |[HTTPS STATUS ](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-08 )|
 |9.   |[Functional Programming]( https://samalhaj1.github.io/-Code-301-Reading-Notes/read-09)|
+|10.  |[Call Stack](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-10 )|
 
 
 
