@@ -34,41 +34,41 @@ Choose NoSQL if you have or need: Semi-structured or Unstructured data / flexibl
 * ElasticSearch. ...
 * Amazon DynamoDB. ...
 * HBase.
-* 
-## 4. Which type of database is best for hierarchical data storage?
+
+## 5. Which type of database is best for hierarchical data storage?
 the NoSQL database is better suited for hierarchical data storage because it follows the key-value pair method or graph method. 
 
 
 
-## 5. Which type of database is best for scalability?
+## 6. Which type of database is best for scalability?
 NoSQL database is best for scalability
 
 NoSQL databases are highly preferred for large data sets.
 
 
-## 6. What does SQL stand for?
+## 7. What does SQL stand for?
 
 SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used to communicate with a database. 
 
 According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
-## 7. What is a realational database?
+## 8. What is a realational database?
 
 A relational database is a type of database that stores and provides access to data points that are related to one another. 
 
 ... The columns of the table hold attributes of the data, and each record usually has a value for each attribute, making it easy to establish the relationships among data points.
-## 8. What type of structure does a relational database work with?
+## 9. What type of structure does a relational database work with?
 The relational model means that the logical data structures—the data tables, views, and indexes—are separate from the physical storage structures. 
 
 This separation means that database administrators can manage physical data storage without affecting access to that data as a logical structure.
-## 9. What is a ‘schema’?
+## 10. What is a ‘schema’?
 A database schema represents the logical configuration of all or part of a relational database. 
 
 It can exist both as a visual representation and as a set of formulas known as integrity constraints that govern a database. 
 
 These formulas are expressed in a data definition language, such as SQL.
-## 10. What is a NoSQL database?
+## 11. What is a NoSQL database?
 NoSQL, also referred to as “not only SQL”, “non-SQL”, is an approach to database design that enables the storage and querying of data outside the traditional structures found in relational databases.
-## 11. Howo does it work?
+## 12. Howo does it work?
 Wide-column stores: Wide-column NoSQL databases store data in tables with rows and columns similar to RDBMS, but names and formats of columns can vary from row to row across the table. ... 
 
 In an RDBMS, the data would be in different rows stored in different places on disk, requiring multiple disk operations for retrieval.
@@ -78,14 +78,14 @@ NoSQL databases (aka "not only SQL") are non tabular, and store data differently
 NoSQL databases come in a variety of types based on their data model. ... 
 
 They provide flexible schemas and scale easily with large amounts of data and high user loads.
-## 12. What is inside of a Mongo database?
+## 13. What is inside of a Mongo database?
 MongoDB makes use of records which are made up of documents that contain a data structure composed of field and value pairs. Documents are the basic unit of data in MongoDB. 
 
 The documents are similar to JavaScript Object Notation, but use a variant called Binary JSON (BSON).
 
-## 13. Which is more flexible - SQL or MongoDB? and why.
+## 14. Which is more flexible - SQL or MongoDB? and why.
 While MongoDB is more flexible and ensures high and diverse data availability, a SQL Database operates with the ACID (Atomicity, Consistency, Isolation, and Durability) properties and ensures greater reliability of transactions
-## 14. What is the disadvantage of a NoSQL database?
+## 15. What is the disadvantage of a NoSQL database?
 NoSQL databases don't have the reliability functions which Relational Databases have (basically don't support ACID). 
 
 This also means that NoSQL databases offer consistency in performance and scalability.
