@@ -27,6 +27,8 @@ Now I am a private lessons teacher.
 |11.  |[MongoDB](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-11)
 |12.  |[CRUD ](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-12)|
 |13.  |[Diversity & Inclusion in the Tech Industry ](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-13)|
+|14.  |[OAuth ](https://samalhaj1.github.io/-Code-301-Reading-Notes/read-14)|
+|15.  |[ ]()|
 
 
 
